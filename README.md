@@ -1,6 +1,7 @@
- Simple To-Do List App
+ **Simple To-Do List App**
 
 1.HTML, CSS এবং JavaScript দিয়ে তৈরি একটি সহজ এবং কার্যকরী **To-Do List** ওয়েবসাইট
+
 2.Live Demo :(https://sumaya-sadat07.github.io/To-do-list/)**
 
 ---
