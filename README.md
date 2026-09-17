@@ -1,19 +1,21 @@
- **Simple To-Do List App**
+Simple To-Do List App
 
-1.HTML, CSS এবং JavaScript দিয়ে তৈরি একটি সহজ এবং কার্যকরী **To-Do List** ওয়েবসাইট
+A simple and functional To-Do List website built using HTML, CSS, and JavaScript.
 
-2.Live Demo :(https://sumaya-sadat07.github.io/To-do-list/)**
+Live Demo: https://sumaya-sadat07.github.io/To-do-list/
 
----
+Features:
 
-3. Features:
-*  **নতুন কাজ যোগ করা:** খুব সহজেই নতুন কাজ তালিকায় যুক্ত করা যায়।
-*  **সম্পন্ন হিসেবে চিহ্নিত করা:** কাজের ওপর ক্লিক করলে সেটি সম্পন্ন (Completed) দেখায়।
-*  **কাজ মুছে ফেলা:** প্রয়োজন না হলে ডিলিট বাটনে ক্লিক করে কাজ তালিকা থেকে সরিয়ে ফেলা যায়।
+Add New Tasks: Easily add new tasks to your list.
 
----
+Mark as Completed: Click on a task to mark it as completed.
 
-4. Technologies Used:
-* **HTML5** - স্ট্রাকচার তৈরির জন্য
-* **CSS3** - ডিজাইন এবং স্টাইলিংয়ের জন্য
-* **JavaScript (ES6)** - কার্যকারিতা এবং লজিকের জন্য
+Delete Tasks: Remove tasks from the list when they are no longer needed.
+
+Technologies Used:
+
+HTML5 – For structure
+
+CSS3 – For design and styling
+
+JavaScript (ES6) – For functionality and logic
