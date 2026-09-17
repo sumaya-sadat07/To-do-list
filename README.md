@@ -7,6 +7,7 @@ A simple and functional To-Do List website built using HTML, CSS, and JavaScript
 
 
 ##Features:
+
 Glassmorphic UI: Modern frosted-glass design with dark mode aesthetics.
 
 Local Storage: Automatically saves tasks in the browser.
@@ -22,6 +23,7 @@ Fully Responsive: Optimized for both mobile and desktop
 
 
 ##Technologies Used:
+
 HTML5 – For structure
 
 CSS3 – For design and styling
