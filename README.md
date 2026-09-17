@@ -6,11 +6,17 @@ Live Demo: https://sumaya-sadat07.github.io/To-do-list/
 
 Features:
 
-Add New Tasks: Easily add new tasks to your list.
+Glassmorphic UI: Modern frosted-glass design with dark mode aesthetics.
 
-Mark as Completed: Click on a task to mark it as completed.
+Local Storage: Automatically saves tasks in the browser.
 
-Delete Tasks: Remove tasks from the list when they are no longer needed.
+Smart Filtering: Filter tasks by All, Pending, and Completed.
+
+Live Counter: Real-time count of remaining pending items.
+
+One-Click Clear: Quickly bulk-delete all finished tasks.
+
+Fully Responsive: Optimized for both mobile and desktop
 
 Technologies Used:
 
